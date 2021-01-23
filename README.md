@@ -6,6 +6,14 @@
 
 ##2. Report for Coursework 
 
-![alt text](https://github.com/venetsia/NBMFS/blob/master/40313507Report.pdf)
+https://github.com/venetsia/NBMFS/blob/master/40313507Report.pdf
+
+##3. Overview
+
+##4. Instructions
+
+In order to launch the application, the whole code needs to be downloaded and the version of .Net Standard Framework must be  4.7.2 at least -> found in https://dotnet.microsoft.com/download/visual-studio-sdks?utm_source=getdotnetsdk&utm_medium=referral
+
+
 
 
