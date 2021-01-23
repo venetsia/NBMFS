@@ -11,12 +11,14 @@ https://github.com/venetsia/NBMFS/blob/master/40313507Report.pdf
 ## 3. Overview
 
 The main purose of the program is to accept messages (SMS/Tweet/Email(Standard/Incident Report)) by manual input or by file input. 
-File input: There are two choices:
+File input - There are two choices:
   - TXT file (input/output)
   - JSON file (input/output)
- Manual Input: There are two choices:
+  
+Manual Input - There are two choices:
   - Input box for each entry with smart helpers detecting what kind of message are you about to input and give a hint 
   - Two input message boxes accepting the Incident Number and Message Body. Clicking Process shows how the message is recognised by the software and if any issues the user can fix them before adding it to the lists or just add it without Processing the message to view it beforehand.
+  
     *Message Body Consists of: Sender, Subject (If Email) and Message*
  
  Message accepted by manual input or file input recognizes if there ar eany abbreviations (that are previously loaded into program with Short and Long word) and replaces them. Messages are recognised as type and inserted into lists (in ViewLists). 
